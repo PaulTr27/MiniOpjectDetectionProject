@@ -1,0 +1,8 @@
+item { 
+	name:'XuanThu'
+	id:1
+}
+item { 
+	name:'ManhCuong'
+	id:2
+}
